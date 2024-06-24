@@ -1,4 +1,6 @@
 About Dataset
+
+
 What Factors Affect Laptop Computer Prices?
 Several different factors can affect laptop computer prices. These factors include the brand of computer and the number of options and add-ons included in the computer package. In addition, the amount of memory and the speed of the processor can also affect pricing. Though less common, some consumers spend additional money to purchase a computer based on the overall “look” and design of the system.
 
